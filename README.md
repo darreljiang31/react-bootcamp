@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://semantic-ui.com/introduction/getting-started.html
+https://jsonplaceholder.typicode.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
